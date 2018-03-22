@@ -1,5 +1,5 @@
 pipelineType: python
 runTests: true
-testCommand: "pytest test.py"
+testCommand: "echo test.py"
 deployUponTestSuccess: true
 deploymentEnvironment: "staging"
